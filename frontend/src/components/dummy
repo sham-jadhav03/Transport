@@ -1,0 +1,5 @@
+
+
+            <h1 className='font-semibold text-2xl'>Meet at peakup point</h1>
+            <h2 className='text-right text-xl'><i className="ri-square-fill"></i>2 min</h2>
+            <div className='border-b-2 mt-2'></div>
